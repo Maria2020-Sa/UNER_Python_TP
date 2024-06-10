@@ -1,7 +1,7 @@
 #Pedir al usuario que ingrese 5 números para luego almacenarlos en una lista y ordenarlos.
 #Imprimir por pantalla el resultado.
 
-lista =  [];
+lista =  []
 def almacenar_datos(valor):
     lista.append(valor)
 
